@@ -4,6 +4,8 @@ ipython
 ipykernel
 ipywidgets
 
+pylint==3.0.3
+
 torch==2.2.0
 optimum==1.16.2
 auto-gptq==0.7.0
