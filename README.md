@@ -1,3 +1,4 @@
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 # LLM-Guardrails
 This repository contains code and resources for implementing guardrails for LLM-based conversational systems. Guardrails are ways of controlling the LLM output, such as topic, style, chain, etc. The guardrail systems include Nemo Guardrails and others. See the subfolders for details.
 
